@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="261" started-at="2020-02-18T14:56:39Z" finished-at="2020-02-18T14:56:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="261" started-at="2020-02-18T14:56:39Z" finished-at="2020-02-18T14:56:39Z">
+      <class name="jbk.com.Testclass">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:jbk.com.Testclass@1e88b3c]" name="openBrowser" is-config="true" duration-ms="8465" started-at="2020-02-18T20:26:31Z" finished-at="2020-02-18T20:26:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="testLinkSpellings(java.lang.String)[pri:0, instance:jbk.com.Testclass@1e88b3c]" name="testLinkSpellings" duration-ms="62" started-at="2020-02-18T20:26:39Z" data-provider="empLogin" finished-at="2020-02-18T20:26:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dashboard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkSpellings -->
+        <test-method status="PASS" signature="testLinkSpellings(java.lang.String)[pri:0, instance:jbk.com.Testclass@1e88b3c]" name="testLinkSpellings" duration-ms="2" started-at="2020-02-18T20:26:39Z" data-provider="empLogin" finished-at="2020-02-18T20:26:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Users]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkSpellings -->
+        <test-method status="PASS" signature="testLinkSpellings(java.lang.String)[pri:0, instance:jbk.com.Testclass@1e88b3c]" name="testLinkSpellings" duration-ms="3" started-at="2020-02-18T20:26:39Z" data-provider="empLogin" finished-at="2020-02-18T20:26:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Operators]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkSpellings -->
+        <test-method status="PASS" signature="testLinkSpellings(java.lang.String)[pri:0, instance:jbk.com.Testclass@1e88b3c]" name="testLinkSpellings" duration-ms="3" started-at="2020-02-18T20:26:39Z" data-provider="empLogin" finished-at="2020-02-18T20:26:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Useful Links]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkSpellings -->
+        <test-method status="PASS" signature="testLinkSpellings(java.lang.String)[pri:0, instance:jbk.com.Testclass@1e88b3c]" name="testLinkSpellings" duration-ms="1" started-at="2020-02-18T20:26:39Z" data-provider="empLogin" finished-at="2020-02-18T20:26:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Downloads]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkSpellings -->
+        <test-method status="PASS" signature="testLinkSpellings(java.lang.String)[pri:0, instance:jbk.com.Testclass@1e88b3c]" name="testLinkSpellings" duration-ms="2" started-at="2020-02-18T20:26:39Z" data-provider="empLogin" finished-at="2020-02-18T20:26:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Logout]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkSpellings -->
+        <test-method status="PASS" signature="testLinksCount()[pri:0, instance:jbk.com.Testclass@1e88b3c]" name="testLinksCount" duration-ms="58" started-at="2020-02-18T20:26:39Z" finished-at="2020-02-18T20:26:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinksCount -->
+        <test-method status="PASS" signature="testLinksSeq()[pri:0, instance:jbk.com.Testclass@1e88b3c]" name="testLinksSeq" duration-ms="2" started-at="2020-02-18T20:26:39Z" finished-at="2020-02-18T20:26:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinksSeq -->
+      </class> <!-- jbk.com.Testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

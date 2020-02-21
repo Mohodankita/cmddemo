@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="jbk.com.ExtentReporNg"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="jbk.com.Testclass">
+        <methods>
+          <include name="testLinkSpellings"/>
+          <include name="openBrowser"/>
+          <include name="testLinksSeq"/>
+          <include name="testLinksCount"/>
+        </methods>
+      </class> <!-- jbk.com.Testclass -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
